@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lamacca-monopoli/static/css/main.76214c3b.css",
+    "main.js": "/lamacca-monopoli/static/js/main.ed30e583.js",
+    "index.html": "/lamacca-monopoli/index.html",
+    "main.76214c3b.css.map": "/lamacca-monopoli/static/css/main.76214c3b.css.map",
+    "main.ed30e583.js.map": "/lamacca-monopoli/static/js/main.ed30e583.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76214c3b.css",
+    "static/js/main.ed30e583.js"
+  ]
+}
