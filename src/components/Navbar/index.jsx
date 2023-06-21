@@ -11,13 +11,13 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="w-full bg-gray-800">
+    <nav className="w-full bg-midnight">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0">
               {/* <img className="h-8 w-8" src="/logo.svg" alt="Logo" /> */}
-              <h1 className="text-gray-300 px-2 rounded-md font-bold">Lamacca Monopoli</h1>
+              <h1 className="text-white px-2 rounded-md font-bold">Lamacca <span className="text-mandarin">Monopoli</span></h1>
             </div>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-4">
